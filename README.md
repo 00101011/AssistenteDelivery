@@ -60,7 +60,5 @@ Este assistente de delivery pode ser expandido e adaptado para atender a diferen
 
 Contribuições são bem-vindas! Se você deseja melhorar este projeto ou adicionar novas funcionalidades, por favor, abra um **pull request** ou **issue**.
 
-## Licença
 
-Este projeto é licenciado sob a [MIT License](LICENSE).
 
